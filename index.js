@@ -44,7 +44,7 @@ function iLoveTheBeatles(num) {
   
   function increment1(i) {
     i = i + 1
-    return niium
+    return i
   }
   
   do {
