@@ -43,8 +43,8 @@ function iLoveTheBeatles(num) {
   var arr = []
   
   function increment1(num) {
-    num = num + 1
-    return num
+    i = i + 1
+    return i
   }
   
   do {
