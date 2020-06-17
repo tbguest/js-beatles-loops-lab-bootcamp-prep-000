@@ -42,7 +42,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   var arr = []
   
-  function increment1(num) {
+  function increment1(i) {
     i = i + 1
     return i
   }
