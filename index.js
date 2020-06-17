@@ -55,4 +55,4 @@ function iLoveTheBeatles(num) {
   return arr
 }
 
-console.log(iLoveTheBeatles(10))
+console.log(iLoveTheBeatles(13))
