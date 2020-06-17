@@ -50,7 +50,7 @@ function iLoveTheBeatles(num) {
   do {
     arr.push("I love the Beatles!")
     num = num + 1
-  } while (increment1(num) < 15);
+  } while (increment1(num) <= 15);
   
   return arr
 }
